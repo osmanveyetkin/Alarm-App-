@@ -1,0 +1,16 @@
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\alarm1.csproj.AssemblyReference.cache
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\Interop.WMLSS.dll
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\Interop.WMPLib.dll
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\alarm1.csproj.ResolveComReference.cache
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\alarm1.Properties.Resources.resources
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\alarm1.csproj.GenerateResource.cache
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\alarm1.csproj.CoreCompileInputs.cache
+C:\Users\osmny\source\repos\alarm1\alarm1\bin\Debug\alarm1.exe.config
+C:\Users\osmny\source\repos\alarm1\alarm1\bin\Debug\alarm1.exe
+C:\Users\osmny\source\repos\alarm1\alarm1\bin\Debug\alarm1.pdb
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\alarm1.Form1.resources
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\alarm1.exe
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\alarm1.pdb
+C:\Users\osmny\source\repos\alarm1\alarm1\bin\Debug\Guna.UI2.dll
+C:\Users\osmny\source\repos\alarm1\alarm1\obj\Debug\alarm1.csproj.Up2Date
